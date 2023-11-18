@@ -41,7 +41,7 @@ Displays statistics on bikeshare users.
 
 ### `display_data()`
 
-Displays raw data upon request by the user.
+Displays raw data upon request by the user with 5 rows at a time.
 
 ### `main()`
 
