@@ -10,6 +10,7 @@ The script `bikeshare.py` takes in raw input from the user to select a city, mon
 - Most popular stations and trips
 - Trip duration statistics
 - User statistics (counts, gender, birth years)
+- Raw data (upon request)
 
 The results of the analysis are printed to the terminal.
 
