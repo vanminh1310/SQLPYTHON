@@ -35,7 +35,7 @@ def get_filters():
         else:
             print("You have chosen {}.".format(month.title()))
             break
-# get user input for day of week (all, monday, tuesday, ... sunday)
+# get user input for day of week (all, monday, tuesday,sunday)
     days = ['all', 'monday', 'tuesday', 'wednesday',
             'thursday', 'friday', 'saturday', 'sunday']
     while True:
