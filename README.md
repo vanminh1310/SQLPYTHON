@@ -1,4 +1,3 @@
-<<<<<<<<< Temporary merge branch 1
 # US Bikeshare Data Analysis
 
 This project analyzes bikeshare data from three US cities - Chicago, New York City, and Washington - to uncover bike share usage patterns.
@@ -55,5 +54,4 @@ The program can be run as:
 ```bash
 python bikeshare.py
 =========
-# SQLPYTHO
->>>>>>>>> Temporary merge branch 2
+
