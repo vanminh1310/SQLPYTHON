@@ -1,6 +1,6 @@
 # US Bikeshare Data Analysis
 
-This project analyzes bikeshare data from three US cities - Chicago, New York City, and Washington - to uncover bike share usage patterns.
+This project analyzes bikeshare data from three US cities - Chicago, New York City, and Washington .
 
 ## Overview
 
@@ -51,6 +51,7 @@ Runs the program to call the above functions in sequence and restart if desired.
 ## Usage
 
 The program can be run as:
+In terminal, navigate to the directory containing the bikeshare.py file and run the following command:
 
 ```bash
 python bikeshare.py
